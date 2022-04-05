@@ -1,0 +1,30 @@
+#main-body {
+    display: grid;
+    grid-template-columns: minmax(300px,auto);   
+    grid-gap: 20px;
+    width:50px;
+    float: left;
+    text-size-adjust: 50px;
+    font-size: xx-small;
+}
+fieldset{
+  float: left;
+  background-color: rgb(177, 175, 175);
+ font-size: large;
+}
+li{
+    font-size: large;
+    position: relative;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    left: 20px;
+}
+h2{
+    font-size: xx-large;
+}
+p{
+    font-size: x-large;
+    color: rgb(58, 57, 57);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
